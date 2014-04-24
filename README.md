@@ -1,8 +1,7 @@
-fader
-=====
+Expandable jQuery Content Fader
+===============================  
 
-Expandable jQuery Content Fader    
-
+Unlike anything you've ever seen before (except not really). Animations are powered by CSS transitions in browsers that support them; in browsers that don't, we have a jQuery fallback.  
 
 Parameters (+ Defaults)
 -----------------------
