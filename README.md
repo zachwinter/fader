@@ -1,12 +1,11 @@
 fader
 =====
 
-Expandable jQuery Content Fader
-
+Expandable jQuery Content Fader    
 
 
 Parameters (+ Defaults)
-=======================
+-----------------------
 
 fadeSpeed       : 1500  
 swapDelay       : 7500  
@@ -21,3 +20,5 @@ breakout        : false
 disableOnResize : true  
 changeStart     : function(data){}  
 changeEnd       : function(data){}  
+
+More documentation coming soon!  
