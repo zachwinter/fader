@@ -21,3 +21,9 @@ Parameters (+ Defaults)
 `changeEnd       : function(data){}`  
 
 More documentation coming soon!  
+
+Changelog
+-----------------------
+
+v0.2
+Added option to disable autoswap when user manually updates slide.
