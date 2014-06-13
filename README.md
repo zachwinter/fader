@@ -6,19 +6,22 @@ Unlike anything you've ever seen before (except not really). Animations are powe
 Parameters (+ Defaults)
 -----------------------
 
-`fadeSpeed       : 1500`  
-`swapDelay       : 7500`  
-`autoSwap        : true`  
-`keyboard        : true`  
-`baseIndex       : 0`  
-`bullets         : false`  
-`fixedAspect     : false`  
-`prevButton      : false`  
-`nextButton      : false`  
-`breakout        : false`  
-`disableOnResize : true`  
-`changeStart     : function(data){}`  
-`changeEnd       : function(data){}`  
+```javascript
+baseIndex   : 0,
+fadeSpeed   : 1500,
+swapDelay   : 7500,
+autoSwap    : true,
+keyboard    : true,
+bullets     : false,
+fixedAspect : false,
+previous    : false,
+next        : false,
+breakout    : false,
+resizePause : true,
+userDisable : true,
+changeStart : function (data) {},
+changeEnd   : function (data) {}
+```
 
 More documentation coming soon!  
 
