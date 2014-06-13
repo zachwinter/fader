@@ -25,5 +25,8 @@ More documentation coming soon!
 Changelog
 -----------------------
 
+v1.0
+Total refactor.
+
 v0.2
 Added option to disable autoswap when user manually updates slide.
